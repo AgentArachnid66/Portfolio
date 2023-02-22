@@ -10,4 +10,4 @@ regenerate: true
 
 Flashlights are very easy to create in C++ as they are essentially Spotlight Components that are already built into the Engine
 
-![](/_site/_images/ActivateFlashlight.png)
+![](/assets/Images/ActivateFlashlight.png)
