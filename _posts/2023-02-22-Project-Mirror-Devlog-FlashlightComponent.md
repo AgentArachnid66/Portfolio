@@ -1,20 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "How To Make A Flashlight Component in UE5 using C++"
 date:   2022-03-28 08:22:38 +0200
-categories: jekyll update
+categories: C++, Flashlight, Components, Unreal, UE5
 ---
 
-# This is a title
+# How To Make A Flashlight Component in C++
 
-Markdown is **very** simple to write.
-
-This is a table
-
-| Author      | Book    |
-|-------------|---------|
-| Homer       | Odissey |
-| Virgil      | Aeneid  |
-| Shakespeare | Hamlet  |
-
-Find a cheatsheet at this [link](https://www.markdownguide.org/cheat-sheet/)
+Flashlights are very easy to create in C++ as they are essentially Spotlight Components that are already built into the Engine
